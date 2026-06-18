@@ -9,7 +9,7 @@ const Card = ({ image, content }) => {
                 src={image}
                 alt={content}
             />
-            <Para paragraph={content} vari={"sec"} />
+            <Para paragraph={content} vari={"dan"} />
         
         </div>
 

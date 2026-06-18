@@ -58,7 +58,7 @@ const Accordion = () => {
                                     className="flex justify-between w-full py-4 cursor-pointer"
                                     onClick={() => toggleAccordion(index)}
                                 >
-                                    <h3 className="font-medium tex-[18px] w-full leading-[175%] tracking-[-1%] text-Deep-nav ">
+                                    <h3 className="font-medium text-[18px] w-full leading-[175%] tracking-[-1%] text-Deep-nav ">
                                         {section.heading}
                                     </h3>
                                     <span
